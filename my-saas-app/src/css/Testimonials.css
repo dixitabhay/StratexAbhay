@@ -1,0 +1,36 @@
+.testimonial-section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+.testimonial-card {
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    text-align: center;
+}
+
+.testimonial-card img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+.testimonial-card p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.testimonial-card h5 {
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.testimonial-card p.subtitle {
+    font-size: 1rem;
+    color: #777;
+}
